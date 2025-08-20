@@ -1,4 +1,3 @@
-# main.py
 import os
 import io
 import csv
